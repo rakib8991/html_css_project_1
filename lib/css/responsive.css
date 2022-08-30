@@ -1,0 +1,155 @@
+@media only screen and (max-width: 4000px){
+    .barger-menu-area{
+        display: none;
+    }
+}
+@media only screen and (max-width: 1280px){
+    .barger-menu-area{
+        display: none;
+    }
+    .button-area{
+        display: none;
+    }
+    .menu-area{
+        width: 80%;
+    }
+    .leader-image{
+        width: 400px;
+        height: auto;
+    }
+    .hero-content{
+        padding: 20px 0 20px 0;
+    }
+    h1.skrill-heading {
+        padding: 50px 0;
+    }
+    .skrill-section{
+        padding: 100px 0 90px 0;
+    }
+    .title-shadow{
+        font-size: 80px;
+        margin-top: -160px;
+    }
+    .skrill-box{
+        padding: 15px;
+    }
+    .skrill-box p{
+        font-size: 14px;
+        font-weight: 400px;
+    }
+    .box-2{
+        margin-top: 25px;
+    }
+    .about-us {
+        height: 400px;
+        width: auto;
+    }
+    footer form button{
+        margin-top: 10px;
+    }
+}
+@media only screen and (max-width: 992px){
+    .barger-menu-area{
+        display: unset;
+    }
+    .logo-area{
+        width: 80%;
+    }
+   .menu-area{
+       display: none;
+        width: 100%;
+    }
+    .menu-area nav{
+        width: 100%;
+    }
+    .main-menu .link{
+        float: none;
+        margin: 15px 0;
+    }
+    .leader-image{
+        width: 300px;
+    }
+    .skrill-section{
+        margin-top: -75px;
+    }
+    .about-us {
+        height: 300px;
+    }
+    .top-shap{
+        display: none;
+    }
+    .buttom-shap{
+        display: none;
+    }
+    .skrill-section{
+        background-image: none;
+    }
+    .input-btn{
+        width: 40% !important;
+    }
+    .skrill-box h5{
+        font-size: 14px !important;
+    }
+    .skrill-box p {
+        font-size: 10px;
+    }
+}
+@media only screen and (max-width: 767px){
+    .hero-section{
+        padding-top: 50px;
+    }
+    .leader-image{
+        display: none;
+    }
+    .about-us{
+        display: none;
+    }
+    
+    .title-shadow {
+        display: none;
+    }
+    h1.skrill-heading{
+        padding: 0;
+    }
+    .about-content{
+        padding: 0;
+    }
+    .choose{
+        margin-top: 40px;
+    }
+    .info{
+        margin-top: 0;
+        padding-left: 0;
+        text-align: center;
+    }
+    .title-content{
+        padding-bottom: 0;
+    }
+    footer{
+        text-align: center;
+    }
+    .footer-logo img{
+        width: 40%;
+    }
+    .row-2{
+        justify-content: normal;
+    }
+    .row-1{
+        justify-content: normal;
+    }
+    .flow-left{
+        width: 100% !important;
+    }
+    .flow-right{
+        width: 100% !important;
+    }
+    .flow-line{
+        left: 0;
+    }
+    .flow-left h3, .flow-left p, .flow-left a{
+        text-align: left;
+    }
+    .flow{
+        padding-left: 15px;
+    }
+}
